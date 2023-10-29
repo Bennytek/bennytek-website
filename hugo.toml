@@ -1,4 +1,4 @@
-# baseURL = "https://your_domain.com/"
+# baseURL = "https://bennytek.net/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
@@ -31,7 +31,7 @@ disableKinds = ["taxonomy", "term"]
     { instagram = "https://instagram.com/Bennytek" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
-    { lastfm = "https://lastfm.com/user/Bennytek" },
+    { lastfm = "https://www.last.fm/user/Bennytek" },
     # { linkedin = "https://linkedin.com/in/username" },
     { mastodon = "https://aus.social/@Bennytek" },
     # { medium = "https://medium.com/username" },
