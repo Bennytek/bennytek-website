@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     # { email = "mailto:hello@your_domain.com" },
-    # { link = "https://link-to-some-website.com/" },
+    { link = "https://blog.bennytek.net" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
